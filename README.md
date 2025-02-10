@@ -70,7 +70,7 @@ Explore how businesses leverage Thailand proxies:
 ### What is an Thailand proxy server?
 An Thailand proxy server is a server based in Thailand that serves as an intermediary between your device and the internet. It provides anonymity, helps bypass restrictions and blocks, enables web content scraping, and enforces content filtering policies.
 
-### Can I target ZIP codes across Italy?
+### Can I target ZIP codes across Thailand?
 Yes, you can choose IPs using Thailand zip code level targeting. Bright Data also offers city and state level proxy targeting.
 
 ### What types of plans are available? 
